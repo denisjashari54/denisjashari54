@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi
+Hi, I'm Denis Jashari, a 19-year-old software development student currently enrolled at an IT-focused school.
+I'm goal-oriented, curious, and always eager to expand my knowledge and grow as a developer.
 
 
 # 💻 Tech Stack:
